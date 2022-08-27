@@ -1,0 +1,48 @@
+,EN
+MENU_PLAY,PLAY
+MENU_CREDITS,CREDITS
+MENU_CREDITS_TEXT,[color=#00AA00]Coding / Art / Music[/color]\nBitowsky\n\n[color=#00AA00]Testing[/color]\nBitowsky :)\n\n[color=#00aa00][size=35]Made for Brackeys Game Jam 2022.2 („You’re Not Alone”)[/size][/color]
+MENU_VERS,Bit Studio 2022 – Version {0} (Made for Game Jam)
+LS_WARNING,"Game will store your progress in your Browser.\nYou won't be able to reload your progress on other Browsers, if you save it here.\n\nTo reset your progress, restart the game and hold the ‘R’ key, before showing the logo."
+LS_TIME,Time: 
+LS_ALONES,Loneliness count
+LEV_INTRO_TEXT,STRONGER| TOGETHER
+ALONE_TEXT1,YOU’RE ALONE
+ALONE_TEXT2,NOBODY LIKES YOU
+ALONE_TEXT3,THERE’S NO SUPPORT FOR YOU
+ALONE_TEXT4,NOBODY WILL HELP YOU
+ALONE_TEXT5,LONELINESS IS YOUR NAME
+ALONE_TEXT6,YOU ARE NOTHING
+ALONE_TEXT7,ALONE
+ALONE_TEXT8,WORTHLESS
+ALONE_TEXT9,FEAR
+ALONE_TEXT10,SADNESS
+PRESSTOEND,Press SPACEBAR to finish the level
+LEV_COMPLETE,LEVEL COMPLETED!
+LEV_COMPLETE_TIME,TIME: {0}
+LEV_COMPLETE_STAT,LONELINESS COUNT
+LEV_COMPLETE_STAT_PERFECT,PERFECT!
+LEV_PRESSKEY,(SPACEBAR – Continue | R – restart |  L – Level Select)
+LEV_RESTART,"Keep holding the key, to restart"
+LEV01_TXT1,Use [img=keyUp][img=keyDown][img=keyLeft][img=keyRight] to move your character
+LEV01_TXT2,[size=26]Remember - don’t travel through these rooms alone!\nYou can move your character only [color=#aa0000]if at least one of its allies is in set range (dotted line)[/color].
+LEV01_TXT3,[size=25]Press:\n[color=#6666ff]Q to control [img=charA][/color]\n[color=red]W to control [img=charB][/color]\n[color=green]E to control [img=charC][/color][/size]
+LEV01_TXT4,"To complete the level, [color=#00bb00]all of your characters need to be near finishing machine[/color]."
+LEV02_TXT1,"[size=26]If you get into troubles, [color=#aa0000]press and hold R key, to restart the current level[/color].[/size]"
+LEV03_TXT1,"[size=26]As you may (or may not) know, this game tracks the amount of being alone.\nWill you be able to get a perfect score on every level?[/size]"
+LEV05_TXT1,"[size=22][color=#98c04b]Vision Panels[/color] will increase your radius for a limited time.\n\nIf the character is no longer on that panel, his radius will slowly decrease to its regular size.[/size]"
+LEV08_TXT1,"[size=20][color=#ab1ae4]Clock Doors[/color] can be opened in the same way as regular doors, but when your characters steps off the button, corresponding door will close [color=red]after the set amount of time[/color][/size]"
+LEV09_TXT1,Thanks for checking out my game! See you soon! 
+LEV_GENERAL_NAME,Level {0}
+LEV_UNKNOWN,?????
+LEV01_NAME,You’re not alone
+LEV02_NAME,Cabin Communication
+LEV03_NAME,Op-pressed path
+LEV04_NAME,Control Panel
+LEV05_NAME,Runner Panic
+LEV06_NAME,Balanced Embranchment
+LEV07_NAME,Prison Break
+LEV08_NAME,No Time To Waste
+LEV09_NAME,Clock Fork
+LEV10_NAME,Final Press
+END_TEXT,[size=45]Thanks for playing![/size]\n\nThis game was created by [color=#00BB00]Bit Studio[/color] for [color=#d4af37]Brackeys Game Jam 2022.2[/color] organised by\n[img=brackeys]\n\n\n\n\n\nSee you in a next event!\n\n[size=28](Press anything to go back to the Main Menu)[/size]
